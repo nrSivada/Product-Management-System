@@ -93,7 +93,6 @@ const ProductForm = ({
       className="bg-white p-6 rounded-xl shadow-md space-y-5"
     >
 
-      {/* Name */}
       <div>
         <label className="block font-medium mb-1">
           Product Name
@@ -115,7 +114,6 @@ const ProductForm = ({
         )}
       </div>
 
-      {/* Description */}
       <div>
         <label className="block font-medium mb-1">
           Description
